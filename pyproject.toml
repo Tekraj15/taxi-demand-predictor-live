@@ -19,7 +19,6 @@ lightgbm = "^3.3.3"
 optuna = "^3.0.5"
 hopsworks = "^3.0.5"
 
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
